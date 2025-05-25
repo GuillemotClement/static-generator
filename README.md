@@ -14,3 +14,8 @@ Cette commande lance le serveur Python, et rends le fichier html.
 ```shell
 python3 -m http.server 8888 
 ```
+
+Pour lancer le script depuis le root du projet, on utilise le .sh
+```shell
+./main.sh
+```
